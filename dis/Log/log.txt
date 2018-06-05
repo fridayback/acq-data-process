@@ -1,0 +1,5 @@
+16:24:29.051 [main] INFO  c.e.dis.dataprocess.TopologyMain - true
+16:24:29.060 [main] DEBUG c.e.dis.dataprocess.TopologyMain - debug
+16:24:29.060 [main] INFO  c.e.dis.dataprocess.TopologyMain - info
+16:24:29.060 [main] WARN  c.e.dis.dataprocess.TopologyMain - warn
+16:24:29.060 [main] ERROR c.e.dis.dataprocess.TopologyMain - error
